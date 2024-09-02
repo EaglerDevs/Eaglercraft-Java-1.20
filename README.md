@@ -1,3 +1,4 @@
-# Eaglercraft-Java-1.20
-Eaglerdevs' Eaglercraft 1.20
-Remaking Klockcraft 1.20.
+# Klockcraft Java Edition 1.20
+#### Revived And 56% Done!
+
+### Coming Soon!

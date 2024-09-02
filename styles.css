@@ -1,0 +1,37 @@
+/* styles.css */
+body {
+  margin: 0;
+  padding: 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-family: Arial, Helvetica, sans-serif;
+  color: none;
+  font-family: 'font', sans-serif;
+}
+    a {
+        text-decoration: none;
+        display: inline-block;
+        margin: 10px;
+    }
+
+    img {
+        width: 250px; /* Adjust the width as needed */
+        height: auto; /* Maintain the aspect ratio */
+        border: 2px solid #ccc; /* Add a border */
+        border-radius: 5px; /* Add rounded corners */
+    }
+      .content {
+            display: none;
+        }
+
+        h1 {
+            font-family: font;
+            color: gold;
+        }
+
+     
+        h2 {
+            font-family: font;
+            color: lightgreen;
+        }
